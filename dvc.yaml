@@ -1,0 +1,4 @@
+artifacts:
+  pointpillars_tanway_backbone_new:
+    path: pointpillars_tanway_backbone_new.onnx
+    type: model
